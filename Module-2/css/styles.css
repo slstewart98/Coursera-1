@@ -42,7 +42,7 @@
     border: 1px solid green;
   }
     .col-md-4 {
-    width: 33.33%;
+    width: 50%;
   }
 }
 @media (min-width: 400px) and (max-width: 991px) {
@@ -51,7 +51,7 @@
     border: 1px solid green;
   }
     .col-sm-4 {
-    width: 33.33%;
+    width: 100%;
   }
 }
 
