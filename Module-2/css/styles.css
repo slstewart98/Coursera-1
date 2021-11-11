@@ -72,13 +72,10 @@
 
 
 /********** Large devices only **********/
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
    .col-lg-4 {
     float: left;
-    border: 1px solid green;
-  }
-  }
-  .col-lg-4 {
+
     width: 33.33%;
 
 }
@@ -87,18 +84,14 @@
 @media (min-width: 992px) and (max-width: 1199px) {
     .col-md-4 {
     float: left;
-    border: 1px solid green;
-  }
-    .col-md-4 {
+
     width: 50%;
   }
 }
 @media (min-width: 400px) and (max-width: 991px) {
     .col-sm-4 {
     float: left;
-    border: 1px solid green;
-  }
-    .col-sm-4 {
+
     width: 100%;
   }
 
