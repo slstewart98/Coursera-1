@@ -17,7 +17,12 @@
     font-family: Helvetica;
     color: white;
   }
-  
+  .container > p{
+    background-color: #5F9EA0;
+    position: absolute;
+    top: 0;
+    left: 0;  
+  }
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
