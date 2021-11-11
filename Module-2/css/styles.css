@@ -7,12 +7,7 @@
   h1 {
     margin-bottom: 15px;
   }
-  #p1 {
-    width: 50px;
-    height: 50px;
-    border: 1px solid black;
-    margin-bottom: 15px;
-  }
+
     #Window #Walls #Balls{
     border: 1px solid black;
     background-color: #A52A2A;
@@ -22,6 +17,13 @@
     margin-left: auto;
     font-family: Helvetica;
     color: white;
+  }
+
+  #p1 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin-bottom: 15px;
   }
 
   /* Simple Responsive Framework. */
