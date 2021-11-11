@@ -20,7 +20,9 @@
   }
 
 #p1 {
-    background-color: #A52A2A;
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
     position: relative;
     top: 65px;
     left: 65px;
